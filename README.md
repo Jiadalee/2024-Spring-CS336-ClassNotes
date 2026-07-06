@@ -51,9 +51,10 @@ Throughout the course, I handwrote detailed notes to reinforce my understanding 
 <img width="627" height="830" alt="Linkedin fig 8" src="https://github.com/user-attachments/assets/f3380445-2461-48b0-825d-d759b34eb89f" />
 <img width="638" height="839" alt="Linkedin fig 9" src="https://github.com/user-attachments/assets/b5e78bfa-f2ce-49aa-9b55-a1c2ecc7546b" />
 <img width="588" height="766" alt="Linkedin fig 10" src="https://github.com/user-attachments/assets/b3f44f83-c5e5-479c-81da-219befd13038" />
+<img width="591" height="767" alt="Linkedin fig 102" src="https://github.com/user-attachments/assets/d29ad344-afdb-44ca-a62f-9b35a37d2a1d" />
 <img width="582" height="758" alt="Linkedin fig 11" src="https://github.com/user-attachments/assets/ed513a36-e497-4a53-a78c-5393897dad91" />
 <img width="582" height="762" alt="Linkedin fig 12" src="https://github.com/user-attachments/assets/e077e4e0-48b2-47c6-adb1-5a6ea150f037" />
-<img width="591" height="767" alt="Linkedin fig 102" src="https://github.com/user-attachments/assets/d29ad344-afdb-44ca-a62f-9b35a37d2a1d" />
+
 
 ---
 
