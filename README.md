@@ -8,7 +8,7 @@ The course, instructed by **Percy Liang** and **Tatsunori Hashimoto**, provides 
 
 ---
 
-# Why I Created These Notes
+# Why I Created These Notes?
 
 My goal was not simply to pass the course, but to build a deep understanding of how LLMs are developed from the ground up.
 
