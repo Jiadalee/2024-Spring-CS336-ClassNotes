@@ -40,7 +40,7 @@ Throughout the course, I handwrote detailed notes to reinforce my understanding 
 - 🧠 RL policy optimization and RL aligment
 - ➕ and more…
 
-# Check some sample scanned pdf notes below:
+# Check some sample pdf notes below:
 <img width="652" height="833" alt="Linkedin fig 1" src="https://github.com/user-attachments/assets/0954dd0e-212d-4dbe-8c32-a3879afa6b6c" />
 <img width="620" height="812" alt="Linkedin fig 2" src="https://github.com/user-attachments/assets/40756bfe-f68b-4e37-8165-3b9e2932f76f" />
 <img width="635" height="812" alt="Linkedin fig 3" src="https://github.com/user-attachments/assets/40c7b19e-d5fe-4727-91ae-ba1d97137d33" />
