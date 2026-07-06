@@ -4,7 +4,7 @@ Welcome! 👋
 
 This repository contains **160+ pages of handwritten notes** that I created while taking **Stanford CS336: Language Modeling from Scratch (Spring 2024)**.
 
-The course, instructed by **Percy Liang** and **Tatsunori Hashimoto**, provides a comprehensive introduction to the principles and systems behind modern Large Language Models (LLMs), covering topics from transformer architectures and pretraining to distributed training, inference, optimization, and evaluation.
+The course, instructed by **Percy Liang** and **Tatsunori Hashimoto**, provides a comprehensive introduction to the principles and systems behind modern Large Language Models (LLMs), covering topics from pre-training datasets, tokenization, transformer architectures, LLM pretraining to distributed training, inference and LLM serving, memory optimization, GPU benchmarking and profiling, collective communcation, AI evaluation, and RL policy, ect.
 
 ---
 
@@ -37,6 +37,7 @@ Throughout the course, I handwrote detailed notes to reinforce my understanding 
 - 🛠️ Checkpointing, fault tolerance, training efficiency
 - 📦 System-level optimization (throughput, latency, memory–compute balance)
 - 🌍 Deployment & LLM serving systems
+- 🧠 RL policy optimization and RL aligment
 - ➕ and more…
 
 ---
@@ -52,9 +53,9 @@ Throughout the course, I handwrote detailed notes to reinforce my understanding 
 This resource is intended for:
 
 - Students studying Large Language Models
-- AI and Machine Learning engineers
+- AI and LLM engineers
 - ML Systems engineers
-- Researchers interested in LLM infrastructure
+- Researchers and scientists interested in ML System and AI infrastructure
 - Anyone preparing to study or review Stanford CS336
 
 Please note that these are **personal study notes**, not official course materials. They reflect my own understanding of the lectures and may contain omissions or mistakes.
