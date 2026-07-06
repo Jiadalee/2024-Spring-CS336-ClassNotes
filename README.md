@@ -40,6 +40,21 @@ Throughout the course, I handwrote detailed notes to reinforce my understanding 
 - 🧠 RL policy optimization and RL aligment
 - ➕ and more…
 
+- Check some sample scanned pdf notes below:
+<img width="652" height="833" alt="Linkedin fig 1" src="https://github.com/user-attachments/assets/0954dd0e-212d-4dbe-8c32-a3879afa6b6c" />
+<img width="620" height="812" alt="Linkedin fig 2" src="https://github.com/user-attachments/assets/40756bfe-f68b-4e37-8165-3b9e2932f76f" />
+<img width="635" height="812" alt="Linkedin fig 3" src="https://github.com/user-attachments/assets/40c7b19e-d5fe-4727-91ae-ba1d97137d33" />
+<img width="645" height="817" alt="Linkedin fig 4" src="https://github.com/user-attachments/assets/87577bb8-2eab-4a3a-aa22-c85555c0c0d9" />
+<img width="640" height="823" alt="Linkedin fig 5" src="https://github.com/user-attachments/assets/2199b6fc-b357-4cbb-a7bb-2e8dfe5afbad" />
+<img width="626" height="818" alt="Linkedin fig 6" src="https://github.com/user-attachments/assets/dd81858b-5434-4e02-9136-a8bd2f75f2f4" />
+<img width="635" height="822" alt="Linkedin fig 7" src="https://github.com/user-attachments/assets/2eae538e-3835-4a50-bf29-a87ba40ccbed" />
+<img width="627" height="830" alt="Linkedin fig 8" src="https://github.com/user-attachments/assets/f3380445-2461-48b0-825d-d759b34eb89f" />
+<img width="638" height="839" alt="Linkedin fig 9" src="https://github.com/user-attachments/assets/b5e78bfa-f2ce-49aa-9b55-a1c2ecc7546b" />
+<img width="588" height="766" alt="Linkedin fig 10" src="https://github.com/user-attachments/assets/b3f44f83-c5e5-479c-81da-219befd13038" />
+<img width="582" height="758" alt="Linkedin fig 11" src="https://github.com/user-attachments/assets/ed513a36-e497-4a53-a78c-5393897dad91" />
+<img width="582" height="762" alt="Linkedin fig 12" src="https://github.com/user-attachments/assets/e077e4e0-48b2-47c6-adb1-5a6ea150f037" />
+<img width="591" height="767" alt="Linkedin fig 102" src="https://github.com/user-attachments/assets/d29ad344-afdb-44ca-a62f-9b35a37d2a1d" />
+
 ---
 
 # Repository Contents
